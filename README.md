@@ -70,9 +70,11 @@ Steps:
 ## Author
 
 Vidya Shakthi
+Vishrutha G
 
 GitHub:
 https://github.com/vidyashakthi07
+https://github.com/vishuvishu49204-cmd
 
 ## License
 
